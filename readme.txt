@@ -1,4 +1,4 @@
 Roses are red.
 Violets are blue.
-I now can use git.
+I can now use git.
 And so can others.
